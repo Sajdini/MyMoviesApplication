@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMoviesApplication</string>
+    <string name="label_logo">LO\nGO</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="label_log_in">Log In</string>
+</resources>
